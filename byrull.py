@@ -1,15 +1,12 @@
 #!/usr/bin/env python3
-#Code by xell
+#Code by rull
 import random
 import socket
 import threading
 
-██████╗░██╗░░░██╗██╗░░░░░██╗░░░░░
-██╔══██╗██║░░░██║██║░░░░░██║░░░░░
-██████╔╝██║░░░██║██║░░░░░██║░░░░░
-██╔══██╗██║░░░██║██║░░░░░██║░░░░░
-██║░░██║╚██████╔╝███████╗███████╗
-╚═╝░░╚═╝░╚═════╝░╚══════╝╚══════╝
+print(" Tool TCP UDP Flood")
+print(" Credits by Rull ")
+print(" Create Date : 18/12/2021")
 
 ip = str(input(" IP:"))
 port = int(input(" PORT:"))
