@@ -50,4 +50,4 @@ for y in range(threads):
         th.start()
     else:
         th = threading.Thread(target = run2)
-        th.start
+        th.start()
